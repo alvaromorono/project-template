@@ -28,7 +28,7 @@
     "reselect": "^4.0.0",
     "web3": "^1.0.0-beta.36"
   },
-  "homepage": "http://alvaromorono.github.io/freelance-project-template",
+  "homepage": "http://alvaromorono.github.io/project-template",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
